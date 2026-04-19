@@ -60,6 +60,26 @@ Used in:
 
 
 
+## 📸 Dashboard Preview
+
+![Dashboard](images/dashboard.png)
+
+## 📊 Key Visualizations
+
+### 🌡️ Temperature Trend
+![Temperature](images/temperature.png)
+
+### 🌧️ Rainfall Trend
+![Rainfall](images/rainfall.png)
+
+### 🏭 CO₂ Levels
+![CO2](images/co2.png)
+
+### 📊 Correlation Heatmap
+![Heatmap](images/heatmap.png)
+
+
+
 \## 📂 Project Structure
 
 
